@@ -1,0 +1,24 @@
+{
+  "name": "amqp-issue-multi-client-same-eventhub",
+  "version": "1.0.0",
+  "description": "try to si",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoffreysamper/amqp-issue-multi-client-same-eventhub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geoffreysamper/amqp-issue-multi-client-same-eventhub/issues"
+  },
+  "homepage": "https://github.com/geoffreysamper/amqp-issue-multi-client-same-eventhub#readme",
+  "dependencies": {
+    "amqp10": "^3.4.2",
+    "console-stamp": "^0.2.5",
+    "dotenv": "^4.0.0"
+  }
+}
