@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geoffreysamper/amqp-issue-multi-client-same-eventhub.git"
+    "url": "git+https://github.com/geoffreysamper/amqp10-issue-with-reconnection.git"
   },
   "author": "",
   "license": "ISC",
@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/geoffreysamper/amqp-issue-multi-client-same-eventhub#readme",
   "dependencies": {
-    "amqp10": "^3.4.2",
+    "amqp10": "https://github.com/geoffreysamper/node-amqp10",
     "console-stamp": "^0.2.5",
+    "date-format": "^1.1.0",
+    "debug": "^2.6.1",
     "dotenv": "^4.0.0"
   }
 }

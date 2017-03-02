@@ -10,6 +10,7 @@ try simulate reconnection failure with amqp10  on service bus
 
 #how to simulate the failure
 - run node index.js
-
+- kill connection
+- look at the log file (log.log)
 
 
